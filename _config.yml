@@ -12,6 +12,9 @@ collections:
   books:
     title: books
     output: true
+  highlights:
+    title: highlights
+    output: true
 defaults:
 - scope:
     path: ''
